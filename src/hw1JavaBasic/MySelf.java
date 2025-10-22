@@ -8,9 +8,7 @@ public class MySelf {
 		System.out.println("My Address: 21 marlborough road, brooklyn, New York 11226");
 
 		/*
-		 * Project: File -- New -- Java Project -- Name starts with Upper Case...
-		 * 
-		 * -- Package: Expand the Project name and then select src file --> right click
+		 * Project: File -- New -- Java Project -- Name starts with Upper t click
 		 * --> New --> select package (yellow 4 box) --> Name starts with lowercase
 		 * 
 		 * -- Class: select package --> right click --> New --> Select Class (Green
@@ -20,6 +18,7 @@ public class MySelf {
 		// main method is an entry point for Java. is a static method, actually, the
 		// method name is main, represented by public static void main (String[] args)
 
-	}
+	
 
-}
+	}}
+		 
