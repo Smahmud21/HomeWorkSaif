@@ -8,6 +8,7 @@ public class MySelf {
 		System.out.println("My Address: 21 marlborough road, brooklyn, New York 11226");
 
 		/*
+		 * author: Saif
 		 * Project: File -- New -- Java Project -- Name starts with Upper t click
 		 * --> New --> select package (yellow 4 box) --> Name starts with lowercase
 		 * 
